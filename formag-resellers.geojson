@@ -2447,7 +2447,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -108.4618335,37.2308729 ]
+       "coordinates":  [ 6.938626130874019, 46.27731803539761 ]
     },
     "properties": {
     "reseller_name":"La boutique de l'Apothicaire",
@@ -6418,11 +6418,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.0658674,48.8866594 ]
+       "coordinates":  [ 7.3504202694943,46.249929715422134 ]
     },
     "properties": {
     "reseller_name":"Pharmacie de Savièse",
-    "reseller_full_address":"Rue St Germain 27 1965 Saint-Germain-Savièse"
+    "reseller_full_address":"Rue du stade 5 1965 Savièse"
     }
   },
   {
